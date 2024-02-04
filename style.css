@@ -238,10 +238,10 @@ section{
 .about-details-container{
     display: flex;
 }
-.abou-pic{
+.about-pic{
     border: 2rem;
 }
-.arrow{
+.icon-arrow{
     position: absolute;
     right: 5rem;
     bottom: 2.5rem;
